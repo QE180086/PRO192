@@ -5,5 +5,5 @@
  * @author nguye
  *
  */
-module DuAn_PRO192 {
+module PRO192 {
 }
